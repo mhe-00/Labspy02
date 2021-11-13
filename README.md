@@ -127,3 +127,9 @@ print(list(range(9, 19)))
 # Hasil output program :
 
 ![gambar](screenshot1/gambar8.png)
+
+# Latihan 2 :
+
+1.	Tampilkan n bilangan acak yang lebih kecil dari 0.5
+2.	Nilai n diisi pada saat runtime 
+3.	Anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya
