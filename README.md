@@ -83,3 +83,6 @@ unordered = [5, 3, 4, 8, 1, 2, 9, 6]
 
 print(bubble_sort(unordered))
 
+
+
+![gambar](screenshot1/gambar4.png)
