@@ -178,3 +178,10 @@ Pada flowchart dibawah ini menunjukan percabangan dengan lebih dari satu kondisi
 
 ![gambar](screenshot1/gambar12.png)
 
+Flowchart diatas menggambarkan proses untuk menentukan input tiga buah bilangan, dari ketiga bilangan tersebut di tampilkan bilangan terbesarnya. Terdapat 3 buah kondisi yang masing-masing mempunyai ketentuan yang harus dipenuhi untuk menentukan apakah masing – masing bilangan tersebut memenuhi syarat.
+
+# Alur flowchart diatas dapat saya jelaskan seperti berikut :
+
+Apabila suatu bilangan kita inputkan dari yang terkecil sampai yang terbesar maka program tersebut akan menampilkan sebuah bilangan yang terbesar.
+
+# Ini adalah programnya :
