@@ -225,3 +225,9 @@ Apabila suatu bilangan kita inputkan dari yang terkecil sampai yang terbesar mak
 
 ![gambar](screenshot1/gambar19.png)
 
+
+Latihan 2: latihan2.py
+
+
+1.	Buat program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan. Masukkan angka 0 untuk berhenti.
+
