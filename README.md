@@ -222,3 +222,5 @@ Apabila suatu bilangan kita inputkan dari yang terkecil sampai yang terbesar mak
 5.	print("data ke", i+1,"=",(random.uniform(0.1,0.5))) - adalah perintah untuk menampilkan hasil yang telah di input dengan ketentuan random   uniform mulai dari nilai 0.1 sampai 0.5
 
 # Hasil output perogramnya :
+
+![gambar](screenshot1/gambar19.png)
