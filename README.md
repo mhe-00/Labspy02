@@ -90,3 +90,9 @@ print(bubble_sort(unordered))
 # Hasil output perogram nilai terbesar :
 
 ![gambar](screenshot1/gambar5.png)
+
+# Lab 3: Perulangan
+
+# Latihan 1 :
+
+1.	Buat program dengan perulangan bertingkat (nested) for  yang menghasilkan output sebagai berikut :
