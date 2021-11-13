@@ -298,3 +298,5 @@ Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal a
 
 # Hasil output program :
 
+![gambar](screenshot1/gambar23.png)
+
