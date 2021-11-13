@@ -45,7 +45,7 @@ print('Nilai Terbesar adalah %d' % maks)
 
 ![gambar](screenshot1/gambar2.png)
 
-# Hasil output perogram nilai terbesar :
+# Hasil output program nilai terbesar :
 
 ![gambar](screenshot1/gambar3.png)
 
@@ -87,7 +87,7 @@ print(bubble_sort(unordered))
 
 ![gambar](screenshot1/gambar4.png)
 
-# Hasil output perogram :
+# Hasil output program :
 
 ![gambar](screenshot1/gambar5.png)
 
@@ -124,4 +124,4 @@ print(list(range(9, 19)))
 
 ![gambar](screenshot1/gambar7.png)
 
-# Hasil output perogram :
+# Hasil output program :
