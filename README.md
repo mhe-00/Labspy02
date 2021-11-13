@@ -125,3 +125,5 @@ print(list(range(9, 19)))
 ![gambar](screenshot1/gambar7.png)
 
 # Hasil output program :
+
+![gambar](screenshot1/gambar8.png)
