@@ -44,3 +44,7 @@ else:
 print('Nilai Terbesar adalah %d' % maks)
 
 ![gambar](screenshot1/gambar2.png)
+
+# Hasil output perogram nilai terbesar :
+
+![gambar](screenshot1/gambar3.png)
