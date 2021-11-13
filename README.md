@@ -191,3 +191,12 @@ Apabila suatu bilangan kita inputkan dari yang terkecil sampai yang terbesar mak
 # Ini adalah outputnya :
 
 ![gambar](screenshot1/gambar14.png)
+
+Tugas Praktikum 3
+
+Latihan 1: latihan1.py
+
+1.	Tampilkan n bilangan acak yang lebih kecil dari 0.5.
+2.	nilai n diisi pada saat runtime
+3.	anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya
+4.	gunakan fungsi random ( ) yang dapat diimport terlebih dahulu
