@@ -89,3 +89,4 @@ print(bubble_sort(unordered))
 
 # Hasil output perogram nilai terbesar :
 
+![gambar](screenshot1/gambar5.png)
