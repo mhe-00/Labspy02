@@ -32,8 +32,11 @@ b = int(input("masukan bilangan kedua: "))
 print(' ')
 
 if a > b:
+
     maks = a
+
 else:
+
     maks = b
 
 	#mencetak nilai maksimum
