@@ -187,3 +187,7 @@ Apabila suatu bilangan kita inputkan dari yang terkecil sampai yang terbesar mak
 # Ini adalah programnya :
 
 ![gambar](screenshot1/gambar13.png)
+
+# Ini adalah outputnya :
+
+![gambar](screenshot1/gambar14.png)
