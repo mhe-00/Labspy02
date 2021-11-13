@@ -192,9 +192,11 @@ Apabila suatu bilangan kita inputkan dari yang terkecil sampai yang terbesar mak
 
 ![gambar](screenshot1/gambar14.png)
 
-Tugas Praktikum 3
+# Tugas Praktikum 3
 
-Latihan 1: latihan1.py
+
+# Latihan 1: latihan1.py
+
 
 1.	Tampilkan n bilangan acak yang lebih kecil dari 0.5.
 2.	nilai n diisi pada saat runtime
