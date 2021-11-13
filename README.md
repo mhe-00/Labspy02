@@ -204,3 +204,8 @@ Apabila suatu bilangan kita inputkan dari yang terkecil sampai yang terbesar mak
 4.	gunakan fungsi random ( ) yang dapat diimport terlebih dahulu
 
 ![gambar](screenshot1/gambar15.png)
+
+# program :
+
+![gambar](screenshot1/gambar18.png)
+
