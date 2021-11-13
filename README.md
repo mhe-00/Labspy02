@@ -155,3 +155,23 @@ print(list(range(9, 19)))
 # Hasil output perogramnya :
 
 ![gambar](screenshot1/gambar10.png)
+
+
+# Tugas Praktikum 2
+
+
+1.	Buat repository dengan nama labspy02
+
+2.	Buat program sederhana dengan input tiga buah bilangan, dari ketiga bilangan tersebut tampilkan bilangan terbesarnya. Gunakan statement if.
+
+3.	Uraikan langkah atau algoritmanya pada file README.md, sertakan juga flowchart dan screenshot hasil eksekusi program. Tampilkan 3 kondisi inputan data.
+
+4.	Commit dan push pada repository
+
+5.	submit url repository pada classroom
+
+ 
+# FLOWCHART
+
+
+Pada flowchart dibawah ini menunjukan percabangan dengan lebih dari satu kondisi.
