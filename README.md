@@ -96,3 +96,5 @@ print(bubble_sort(unordered))
 # Latihan 1 :
 
 1.	Buat program dengan perulangan bertingkat (nested) for  yang menghasilkan output sebagai berikut :
+
+![gambar](screenshot1/gambar6.png)
