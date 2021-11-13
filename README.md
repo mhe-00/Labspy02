@@ -221,7 +221,7 @@ Apabila suatu bilangan kita inputkan dari yang terkecil sampai yang terbesar mak
 
 5.	print("data ke", i+1,"=",(random.uniform(0.1,0.5))) - adalah perintah untuk menampilkan hasil yang telah di input dengan ketentuan random   uniform mulai dari nilai 0.1 sampai 0.5
 
-# Hasil output perogramnya :
+# Hasil output program :
 
 ![gambar](screenshot1/gambar19.png)
 
@@ -254,6 +254,7 @@ Apabila suatu bilangan kita inputkan dari yang terkecil sampai yang terbesar mak
 
 9.	print("Bilangan Terbesar Adalah: ", max) - adalah perintah untuk menampilkan hasil bilangan yang terbesar dari angka-angka yang telah terinput
 
-# Hasil output perogramnya :
+# Hasil output program :
 
 
+![gambar](screenshot1/gambar21.png)
