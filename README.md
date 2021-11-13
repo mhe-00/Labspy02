@@ -175,3 +175,6 @@ print(list(range(9, 19)))
 
 
 Pada flowchart dibawah ini menunjukan percabangan dengan lebih dari satu kondisi.
+
+![gambar](screenshot1/gambar12.png)
+
