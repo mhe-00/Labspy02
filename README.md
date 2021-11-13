@@ -87,7 +87,7 @@ print(bubble_sort(unordered))
 
 ![gambar](screenshot1/gambar4.png)
 
-# Hasil output perogram nilai terbesar :
+# Hasil output perogram :
 
 ![gambar](screenshot1/gambar5.png)
 
@@ -124,4 +124,4 @@ print(list(range(9, 19)))
 
 ![gambar](screenshot1/gambar7.png)
 
-# Hasil output perogram nilai terbesar :
+# Hasil output perogram :
