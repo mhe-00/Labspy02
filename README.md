@@ -42,3 +42,5 @@ else:
 	#mencetak nilai maksimum
 
 print('Nilai Terbesar adalah %d' % maks)
+
+![gambar](screenshot1/gambar2.png)
