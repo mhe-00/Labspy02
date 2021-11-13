@@ -185,3 +185,5 @@ Flowchart diatas menggambarkan proses untuk menentukan input tiga buah bilangan,
 Apabila suatu bilangan kita inputkan dari yang terkecil sampai yang terbesar maka program tersebut akan menampilkan sebuah bilangan yang terbesar.
 
 # Ini adalah programnya :
+
+![gambar](screenshot1/gambar13.png)
