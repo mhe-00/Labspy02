@@ -231,3 +231,4 @@ Apabila suatu bilangan kita inputkan dari yang terkecil sampai yang terbesar mak
 
 1.	Buat program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan. Masukkan angka 0 untuk berhenti.
 
+![gambar](screenshot1/gambar16.png)
