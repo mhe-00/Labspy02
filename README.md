@@ -269,4 +269,5 @@ Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal a
 5.	kemudian commit dan push ke repository (github)
 6.	kirim url repository ke classroom.
 
+![gambar](screenshot1/gambar17.png)
 
